@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/suharky/docker_autobuilds.svg?branch=master)](https://travis-ci.org/suharky/docker_autobuilds)
 # Linux Tweet App
 
 This is very simple NGINX website that allows a user to send a tweet. 
